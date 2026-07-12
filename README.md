@@ -5,11 +5,7 @@
 
 # Support:
 
-For community support join my discord here: https://discord.gg/scully
-
-# Convert Your Emotes
-
-You can convert your emotes from dpemotes (including forks of dpemotes) using the [emote conversion website](https://emotes.scullys-development.net/).
+For support join my discord here: https://discord.gg/scully
 
 # Installation Instructions:
 
@@ -251,16 +247,6 @@ You can add custom emotes to the menu by using the `addEmoteToMenu` and `addEmot
 <br>
 
 **Description:** If you would like an emote to be a synchronized emote add this to the emote table, keep in mind you'll also need to define the OtherEmote in the Options table.
-</details>
-
-<details>
-<summary>CanGroupEmote</summary>
-<br>
-
-**Key:** `CanGroupEmote = true`
-<br>
-
-**Description:** If you would like an emote to be usable as a group emote add this to the emote table.
 </details>
 
 # Disclaimer & Credits

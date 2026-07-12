@@ -16,8 +16,7 @@ for i = 1, #emotes.options do
 end
 
 return {
-    name = locale('synchronized_dance_emotes'),
-    type = 'synchronized_dance_emotes',
+    name = 'Synchronized Dance Emotes',
     icon = 'fa-solid fa-people-pulling',
     options = options
 }

@@ -1,6 +1,5 @@
 return {
-    name = locale('general_emotes'),
-    type = 'general_emotes',
+    name = 'General Emotes',
     icon = 'fa-solid fa-person-walking',
     options = {
         {

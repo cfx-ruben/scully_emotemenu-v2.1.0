@@ -1,6 +1,5 @@
 return {
-    name = locale('dance_emotes'),
-    type = 'dance_emotes',
+    name = 'Dance Emotes',
     icon = 'fa-solid fa-person-running',
     options = {
         {
@@ -13,7 +12,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 2',
@@ -25,7 +23,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 3',
@@ -37,7 +34,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 4',
@@ -49,7 +45,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 5',
@@ -61,7 +56,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 6',
@@ -73,7 +67,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 7',
@@ -85,7 +78,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 8',
@@ -97,7 +89,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 9',
@@ -109,7 +100,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 10',
@@ -121,7 +111,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 11',
@@ -133,7 +122,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 12',
@@ -145,7 +133,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 13',
@@ -157,7 +144,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 14',
@@ -169,7 +155,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 15',
@@ -181,7 +166,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 16',
@@ -193,7 +177,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 17',
@@ -205,7 +188,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 18',
@@ -217,7 +199,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 19',
@@ -229,7 +210,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 20',
@@ -241,7 +221,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 21',
@@ -253,7 +232,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 22',
@@ -265,7 +243,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 23',
@@ -277,7 +254,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 24',
@@ -289,7 +265,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 25',
@@ -301,7 +276,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 26',
@@ -313,7 +287,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 27',
@@ -325,7 +298,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 28',
@@ -337,7 +309,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 29',
@@ -349,7 +320,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 30',
@@ -361,7 +331,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 31',
@@ -373,7 +342,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 32',
@@ -385,7 +353,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 33',
@@ -397,7 +364,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 34',
@@ -409,7 +375,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 35',
@@ -421,7 +386,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 36',
@@ -433,7 +397,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 37',
@@ -445,7 +408,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 38',
@@ -457,7 +419,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 39',
@@ -469,7 +430,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 40',
@@ -481,7 +441,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 41',
@@ -493,7 +452,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 42',
@@ -505,7 +463,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 43',
@@ -517,7 +474,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 44',
@@ -529,7 +485,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 45',
@@ -541,7 +496,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 46',
@@ -553,7 +507,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 47',
@@ -565,7 +518,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 48',
@@ -577,7 +529,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 49',
@@ -589,7 +540,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 50',
@@ -601,7 +551,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 51',
@@ -613,7 +562,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 52',
@@ -625,7 +573,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 53',
@@ -637,7 +584,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 54',
@@ -649,7 +595,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 55',
@@ -661,7 +606,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 56',
@@ -673,7 +617,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 57',
@@ -685,7 +628,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 58',
@@ -697,7 +639,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 59',
@@ -709,7 +650,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 60',
@@ -721,7 +661,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 61',
@@ -733,7 +672,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 62',
@@ -745,7 +683,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 63',
@@ -757,7 +694,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 64',
@@ -769,7 +705,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 65',
@@ -781,7 +716,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 66',
@@ -793,7 +727,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 67',
@@ -805,7 +738,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 68',
@@ -817,7 +749,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 69',
@@ -829,7 +760,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 70',
@@ -841,7 +771,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 71',
@@ -853,7 +782,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 72',
@@ -865,7 +793,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 73',
@@ -877,7 +804,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 74',
@@ -889,7 +815,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 75',
@@ -901,7 +826,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 76',
@@ -913,7 +837,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 77',
@@ -925,7 +848,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 78',
@@ -937,7 +859,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 79',
@@ -949,7 +870,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 80',
@@ -961,7 +881,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 81',
@@ -973,7 +892,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 82',
@@ -985,7 +903,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 83',
@@ -997,7 +914,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 84',
@@ -1009,7 +925,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 85',
@@ -1021,7 +936,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 86',
@@ -1033,7 +947,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 87',
@@ -1045,7 +958,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 88',
@@ -1057,7 +969,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 89',
@@ -1069,7 +980,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 90',
@@ -1081,7 +991,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 91',
@@ -1093,7 +1002,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 92',
@@ -1105,7 +1013,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 93',
@@ -1117,7 +1024,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 94',
@@ -1129,7 +1035,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 95',
@@ -1141,7 +1046,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 96',
@@ -1153,7 +1057,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 97',
@@ -1165,7 +1068,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 98',
@@ -1177,7 +1079,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 99',
@@ -1189,7 +1090,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 100',
@@ -1201,7 +1101,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 101',
@@ -1213,7 +1112,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 102',
@@ -1225,7 +1123,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 103',
@@ -1237,7 +1134,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 104',
@@ -1249,7 +1145,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 105',
@@ -1261,7 +1156,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 106',
@@ -1273,7 +1167,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 107',
@@ -1285,7 +1178,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 108',
@@ -1297,7 +1189,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 109',
@@ -1309,7 +1200,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 110',
@@ -1321,7 +1211,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 111',
@@ -1333,7 +1222,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 112',
@@ -1345,7 +1233,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 113',
@@ -1357,7 +1244,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 114',
@@ -1369,7 +1255,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 115',
@@ -1381,7 +1266,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 116',
@@ -1393,7 +1277,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 117',
@@ -1405,7 +1288,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 118',
@@ -1417,7 +1299,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 119',
@@ -1429,7 +1310,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 120',
@@ -1441,7 +1321,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 121',
@@ -1453,7 +1332,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 122',
@@ -1465,7 +1343,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 123',
@@ -1477,7 +1354,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 124',
@@ -1489,7 +1365,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 125',
@@ -1501,7 +1376,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 126',
@@ -1513,7 +1387,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 127',
@@ -1525,7 +1398,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 128',
@@ -1537,7 +1409,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 129',
@@ -1549,7 +1420,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 130',
@@ -1561,7 +1431,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 131',
@@ -1573,7 +1442,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 132',
@@ -1585,7 +1453,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 133',
@@ -1597,7 +1464,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 134',
@@ -1609,7 +1475,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 135',
@@ -1621,7 +1486,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 136',
@@ -1633,7 +1497,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 137',
@@ -1645,7 +1508,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 138',
@@ -1657,7 +1519,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 139',
@@ -1669,7 +1530,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 140',
@@ -1681,7 +1541,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 141',
@@ -1693,7 +1552,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 142',
@@ -1705,7 +1563,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 143',
@@ -1717,7 +1574,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 144',
@@ -1729,7 +1585,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 145',
@@ -1741,7 +1596,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 146',
@@ -1753,7 +1607,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 147',
@@ -1765,7 +1618,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 148',
@@ -1777,7 +1629,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 149',
@@ -1789,7 +1640,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 150',
@@ -1801,7 +1651,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 151',
@@ -1813,7 +1662,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 152',
@@ -1825,7 +1673,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 153',
@@ -1837,7 +1684,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 154',
@@ -1849,7 +1695,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 155',
@@ -1861,7 +1706,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 156',
@@ -1873,7 +1717,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 157',
@@ -1885,7 +1728,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 158',
@@ -1897,7 +1739,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 159',
@@ -1909,7 +1750,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 160',
@@ -1921,7 +1761,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 161',
@@ -1933,7 +1772,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 162',
@@ -1945,7 +1783,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 163',
@@ -1957,7 +1794,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 164',
@@ -1969,7 +1805,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 165',
@@ -1981,7 +1816,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 166',
@@ -1993,7 +1827,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 167',
@@ -2005,7 +1838,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 168',
@@ -2017,7 +1849,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 169',
@@ -2029,7 +1860,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 170',
@@ -2041,7 +1871,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 171',
@@ -2053,7 +1882,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 172',
@@ -2065,7 +1893,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 173',
@@ -2077,7 +1904,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 174',
@@ -2089,7 +1915,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 175',
@@ -2101,7 +1926,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 176',
@@ -2113,7 +1937,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 177',
@@ -2125,7 +1948,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 178',
@@ -2137,7 +1959,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 179',
@@ -2149,7 +1970,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 180',
@@ -2161,7 +1981,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 181',
@@ -2173,7 +1992,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 182',
@@ -2185,7 +2003,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 183',
@@ -2197,7 +2014,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 184',
@@ -2209,7 +2025,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 185',
@@ -2221,7 +2036,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 186',
@@ -2233,7 +2047,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 187',
@@ -2245,7 +2058,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 188',
@@ -2257,7 +2069,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 189',
@@ -2269,7 +2080,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 190',
@@ -2281,7 +2091,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 191',
@@ -2293,7 +2102,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 192',
@@ -2305,7 +2113,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 193',
@@ -2317,7 +2124,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 194',
@@ -2329,7 +2135,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 195',
@@ -2341,7 +2146,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 196',
@@ -2353,7 +2157,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 197',
@@ -2365,7 +2168,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 198',
@@ -2377,7 +2179,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 199',
@@ -2389,7 +2190,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 200',
@@ -2401,7 +2201,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 201',
@@ -2413,7 +2212,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 202',
@@ -2425,7 +2223,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 203',
@@ -2437,7 +2234,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 204',
@@ -2449,7 +2245,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 205',
@@ -2461,7 +2256,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 206',
@@ -2473,7 +2267,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 207',
@@ -2485,7 +2278,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 208',
@@ -2497,7 +2289,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 209',
@@ -2509,7 +2300,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 210',
@@ -2521,7 +2311,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 211',
@@ -2533,7 +2322,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 212',
@@ -2545,7 +2333,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 213',
@@ -2557,7 +2344,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 214',
@@ -2569,7 +2355,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 215',
@@ -2581,7 +2366,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 216',
@@ -2593,7 +2377,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 217',
@@ -2605,7 +2388,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 218',
@@ -2617,7 +2399,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 219',
@@ -2629,7 +2410,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 220',
@@ -2641,7 +2421,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 221',
@@ -2653,7 +2432,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 222',
@@ -2665,7 +2443,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 223',
@@ -2677,7 +2454,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 224',
@@ -2689,7 +2465,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 225',
@@ -2701,7 +2476,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 226',
@@ -2713,7 +2487,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 227',
@@ -2725,7 +2498,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 228',
@@ -2737,7 +2509,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 229',
@@ -2749,7 +2520,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 230',
@@ -2761,7 +2531,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 231',
@@ -2773,7 +2542,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 232',
@@ -2785,7 +2553,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 233',
@@ -2797,7 +2564,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 234',
@@ -2809,7 +2575,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 235',
@@ -2821,7 +2586,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 236',
@@ -2833,7 +2597,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 237',
@@ -2845,7 +2608,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 238',
@@ -2857,7 +2619,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 239',
@@ -2869,7 +2630,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 240',
@@ -2881,7 +2641,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 241',
@@ -2893,7 +2652,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 242',
@@ -2905,7 +2663,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 243',
@@ -2917,7 +2674,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 244',
@@ -2929,7 +2685,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 245',
@@ -2941,7 +2696,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 246',
@@ -2953,7 +2707,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 247',
@@ -2965,7 +2718,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 248',
@@ -2977,7 +2729,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 249',
@@ -2989,7 +2740,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 250',
@@ -3001,7 +2751,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 251',
@@ -3013,7 +2762,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 252',
@@ -3025,7 +2773,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 253',
@@ -3037,7 +2784,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 254',
@@ -3049,7 +2795,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 255',
@@ -3061,7 +2806,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 256',
@@ -3073,7 +2817,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 257',
@@ -3085,7 +2828,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 258',
@@ -3097,7 +2839,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 259',
@@ -3109,7 +2850,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 260',
@@ -3121,7 +2861,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 261',
@@ -3133,7 +2872,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 262',
@@ -3145,7 +2883,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 263',
@@ -3157,7 +2894,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 264',
@@ -3169,7 +2905,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 265',
@@ -3181,7 +2916,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 266',
@@ -3193,7 +2927,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 267',
@@ -3205,7 +2938,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 268',
@@ -3217,7 +2949,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 269',
@@ -3229,7 +2960,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 270',
@@ -3241,7 +2971,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 271',
@@ -3253,7 +2982,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 272',
@@ -3265,7 +2993,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 273',
@@ -3277,7 +3004,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 274',
@@ -3289,7 +3015,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 275',
@@ -3301,7 +3026,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 276',
@@ -3313,7 +3037,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 277',
@@ -3325,7 +3048,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 278',
@@ -3337,7 +3059,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 279',
@@ -3349,7 +3070,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 280',
@@ -3361,7 +3081,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 281',
@@ -3373,7 +3092,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 282',
@@ -3385,7 +3103,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 283',
@@ -3397,7 +3114,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 284',
@@ -3409,7 +3125,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 285',
@@ -3421,7 +3136,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 286',
@@ -3433,7 +3147,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 287',
@@ -3445,7 +3158,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 288',
@@ -3457,7 +3169,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 289',
@@ -3469,7 +3180,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 290',
@@ -3481,7 +3191,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 291',
@@ -3493,7 +3202,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 292',
@@ -3505,7 +3213,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 293',
@@ -3517,7 +3224,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 294',
@@ -3529,7 +3235,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 295',
@@ -3541,7 +3246,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 296',
@@ -3553,7 +3257,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 297',
@@ -3565,7 +3268,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 298',
@@ -3577,7 +3279,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 299',
@@ -3589,7 +3290,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 300',
@@ -3601,7 +3301,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 301',
@@ -3613,7 +3312,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 302',
@@ -3625,7 +3323,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 303',
@@ -3637,7 +3334,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 304',
@@ -3649,7 +3345,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 305',
@@ -3661,7 +3356,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 306',
@@ -3673,7 +3367,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 307',
@@ -3685,7 +3378,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 308',
@@ -3697,7 +3389,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 309',
@@ -3709,7 +3400,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 310',
@@ -3721,7 +3411,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 311',
@@ -3733,7 +3422,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 312',
@@ -3745,7 +3433,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 313',
@@ -3757,7 +3444,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 314',
@@ -3769,7 +3455,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 315',
@@ -3781,7 +3466,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 316',
@@ -3793,7 +3477,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 317',
@@ -3805,7 +3488,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 318',
@@ -3817,7 +3499,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 319',
@@ -3829,7 +3510,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 320',
@@ -3841,7 +3521,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 321',
@@ -3853,7 +3532,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 322',
@@ -3865,7 +3543,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 323',
@@ -3877,7 +3554,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 324',
@@ -3889,7 +3565,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 325',
@@ -3901,7 +3576,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 326',
@@ -3913,7 +3587,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 327',
@@ -3925,7 +3598,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 328',
@@ -3937,7 +3609,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 329',
@@ -3949,7 +3620,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 330',
@@ -3961,7 +3631,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 331',
@@ -3973,7 +3642,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 332',
@@ -3985,7 +3653,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 333',
@@ -3997,7 +3664,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 334',
@@ -4009,7 +3675,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 335',
@@ -4021,7 +3686,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 336',
@@ -4033,7 +3697,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 337',
@@ -4045,7 +3708,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 338',
@@ -4057,7 +3719,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 339',
@@ -4069,7 +3730,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 340',
@@ -4081,7 +3741,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 341',
@@ -4093,7 +3752,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 342',
@@ -4105,7 +3763,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 343',
@@ -4117,7 +3774,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 344',
@@ -4129,7 +3785,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 345',
@@ -4141,7 +3796,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 346',
@@ -4153,7 +3807,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 347',
@@ -4165,7 +3818,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 348',
@@ -4177,7 +3829,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 349',
@@ -4189,7 +3840,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 350',
@@ -4201,7 +3851,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 351',
@@ -4213,7 +3862,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 352',
@@ -4225,7 +3873,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 353',
@@ -4237,7 +3884,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 354',
@@ -4249,7 +3895,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 355',
@@ -4261,7 +3906,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 356',
@@ -4273,7 +3917,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 357',
@@ -4285,7 +3928,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 358',
@@ -4297,7 +3939,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 359',
@@ -4309,7 +3950,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 360',
@@ -4321,7 +3961,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 361',
@@ -4333,7 +3972,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 362',
@@ -4345,7 +3983,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 363',
@@ -4357,7 +3994,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 364',
@@ -4369,7 +4005,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 365',
@@ -4381,7 +4016,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 366',
@@ -4393,7 +4027,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 367',
@@ -4405,7 +4038,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 368',
@@ -4417,7 +4049,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 369',
@@ -4429,7 +4060,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 370',
@@ -4441,7 +4071,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 371',
@@ -4453,7 +4082,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 372',
@@ -4465,7 +4093,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 373',
@@ -4477,7 +4104,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 374',
@@ -4489,7 +4115,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 375',
@@ -4501,7 +4126,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 376',
@@ -4513,7 +4137,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 377',
@@ -4525,7 +4148,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 378',
@@ -4537,7 +4159,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 379',
@@ -4549,7 +4170,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 380',
@@ -4561,7 +4181,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 381',
@@ -4573,7 +4192,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 382',
@@ -4585,7 +4203,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 383',
@@ -4597,7 +4214,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 384',
@@ -4609,7 +4225,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 385',
@@ -4621,7 +4236,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 386',
@@ -4633,7 +4247,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 387',
@@ -4645,7 +4258,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 388',
@@ -4657,7 +4269,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 389',
@@ -4669,7 +4280,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 390',
@@ -4681,7 +4291,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 391',
@@ -4693,7 +4302,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 392',
@@ -4705,7 +4313,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 393',
@@ -4717,7 +4324,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 394',
@@ -4729,7 +4335,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 395',
@@ -4741,7 +4346,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 396',
@@ -4753,7 +4357,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 397',
@@ -4765,7 +4368,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 398',
@@ -4777,7 +4379,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 399',
@@ -4789,7 +4390,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 400',
@@ -4801,7 +4401,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 401',
@@ -4813,7 +4412,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 402',
@@ -4825,7 +4423,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 403',
@@ -4837,7 +4434,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 404',
@@ -4849,7 +4445,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 405',
@@ -4861,7 +4456,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 406',
@@ -4873,7 +4467,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 407',
@@ -4885,7 +4478,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 408',
@@ -4897,7 +4489,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 409',
@@ -4909,7 +4500,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 410',
@@ -4921,7 +4511,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 411',
@@ -4933,7 +4522,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 412',
@@ -4945,7 +4533,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 413',
@@ -4957,7 +4544,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 414',
@@ -4969,7 +4555,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 415',
@@ -4981,7 +4566,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 416',
@@ -4993,7 +4577,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 417',
@@ -5005,7 +4588,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 418',
@@ -5017,7 +4599,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 419',
@@ -5029,7 +4610,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 420',
@@ -5041,7 +4621,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 421',
@@ -5053,7 +4632,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 422',
@@ -5065,7 +4643,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 423',
@@ -5077,7 +4654,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 424',
@@ -5089,7 +4665,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 425',
@@ -5101,7 +4676,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 426',
@@ -5113,7 +4687,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 427',
@@ -5125,7 +4698,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 428',
@@ -5137,7 +4709,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 429',
@@ -5149,7 +4720,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 430',
@@ -5161,7 +4731,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 431',
@@ -5173,7 +4742,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 432',
@@ -5185,7 +4753,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 433',
@@ -5197,7 +4764,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 434',
@@ -5209,7 +4775,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 435',
@@ -5221,7 +4786,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 436',
@@ -5233,7 +4797,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 437',
@@ -5245,7 +4808,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 438',
@@ -5257,7 +4819,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 439',
@@ -5269,7 +4830,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 440',
@@ -5281,7 +4841,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 441',
@@ -5293,7 +4852,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 442',
@@ -5305,7 +4863,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 443',
@@ -5317,7 +4874,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 444',
@@ -5329,7 +4885,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 445',
@@ -5341,7 +4896,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 446',
@@ -5353,7 +4907,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 447',
@@ -5365,7 +4918,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 448',
@@ -5377,7 +4929,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 449',
@@ -5389,7 +4940,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 450',
@@ -5401,7 +4951,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 451',
@@ -5413,7 +4962,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 452',
@@ -5425,7 +4973,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 453',
@@ -5437,7 +4984,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 454',
@@ -5449,7 +4995,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 455',
@@ -5461,7 +5006,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 456',
@@ -5473,7 +5017,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 457',
@@ -5485,7 +5028,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 458',
@@ -5497,7 +5039,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 459',
@@ -5509,7 +5050,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 460',
@@ -5521,7 +5061,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 461',
@@ -5533,7 +5072,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 462',
@@ -5545,7 +5083,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 463',
@@ -5557,7 +5094,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 464',
@@ -5569,7 +5105,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 465',
@@ -5581,7 +5116,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 466',
@@ -5593,7 +5127,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 467',
@@ -5605,7 +5138,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 468',
@@ -5617,7 +5149,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 469',
@@ -5629,7 +5160,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 470',
@@ -5641,7 +5171,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 471',
@@ -5653,7 +5182,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 472',
@@ -5665,7 +5193,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 473',
@@ -5677,7 +5204,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 474',
@@ -5689,7 +5215,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 475',
@@ -5701,7 +5226,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 476',
@@ -5713,7 +5237,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 477',
@@ -5725,7 +5248,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 478',
@@ -5737,7 +5259,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 479',
@@ -5749,7 +5270,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 480',
@@ -5761,7 +5281,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 481',
@@ -5773,7 +5292,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 482',
@@ -5785,7 +5303,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 483',
@@ -5797,7 +5314,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 484',
@@ -5809,7 +5325,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 485',
@@ -5821,7 +5336,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 486',
@@ -5833,7 +5347,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 487',
@@ -5845,7 +5358,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 488',
@@ -5857,7 +5369,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 489',
@@ -5869,7 +5380,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 490',
@@ -5881,7 +5391,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 491',
@@ -5893,7 +5402,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 492',
@@ -5905,7 +5413,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 493',
@@ -5917,7 +5424,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 494',
@@ -5929,7 +5435,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 495',
@@ -5941,7 +5446,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 496',
@@ -5953,7 +5457,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 497',
@@ -5965,7 +5468,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 498',
@@ -5977,7 +5479,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 499',
@@ -5989,7 +5490,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 500',
@@ -6001,7 +5501,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 501',
@@ -6013,7 +5512,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 502',
@@ -6025,7 +5523,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 503',
@@ -6037,7 +5534,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 504',
@@ -6049,7 +5545,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 505',
@@ -6061,7 +5556,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 506',
@@ -6073,7 +5567,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 507',
@@ -6085,7 +5578,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 508',
@@ -6097,7 +5589,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 509',
@@ -6109,7 +5600,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 510',
@@ -6121,7 +5611,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 511',
@@ -6133,7 +5622,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 512',
@@ -6145,7 +5633,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 513',
@@ -6157,7 +5644,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 514',
@@ -6169,7 +5655,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 515',
@@ -6181,7 +5666,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 516',
@@ -6193,7 +5677,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 517',
@@ -6205,7 +5688,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 518',
@@ -6217,7 +5699,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 519',
@@ -6229,7 +5710,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 520',
@@ -6241,7 +5721,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 521',
@@ -6253,7 +5732,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 522',
@@ -6265,7 +5743,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 523',
@@ -6277,7 +5754,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 524',
@@ -6289,7 +5765,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 525',
@@ -6301,7 +5776,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 526',
@@ -6313,7 +5787,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 527',
@@ -6325,7 +5798,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 528',
@@ -6337,7 +5809,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 529',
@@ -6349,7 +5820,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 530',
@@ -6361,7 +5831,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 531',
@@ -6373,7 +5842,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 532',
@@ -6385,7 +5853,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 533',
@@ -6397,7 +5864,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 534',
@@ -6409,7 +5875,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 535',
@@ -6421,7 +5886,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 536',
@@ -6433,7 +5897,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 537',
@@ -6445,7 +5908,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 538',
@@ -6457,7 +5919,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 539',
@@ -6469,7 +5930,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 540',
@@ -6481,7 +5941,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 541',
@@ -6493,7 +5952,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 542',
@@ -6505,7 +5963,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 543',
@@ -6517,7 +5974,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 544',
@@ -6529,7 +5985,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 545',
@@ -6541,7 +5996,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 546',
@@ -6553,7 +6007,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 547',
@@ -6565,7 +6018,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 548',
@@ -6577,7 +6029,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 549',
@@ -6589,7 +6040,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 550',
@@ -6601,7 +6051,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 551',
@@ -6613,7 +6062,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 552',
@@ -6625,7 +6073,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 553',
@@ -6637,7 +6084,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 554',
@@ -6649,7 +6095,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 555',
@@ -6661,7 +6106,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 556',
@@ -6673,7 +6117,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 557',
@@ -6685,7 +6128,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 558',
@@ -6697,7 +6139,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 559',
@@ -6709,7 +6150,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 560',
@@ -6721,7 +6161,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 561',
@@ -6733,7 +6172,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 562',
@@ -6745,7 +6183,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 563',
@@ -6757,7 +6194,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 564',
@@ -6769,7 +6205,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 565',
@@ -6781,7 +6216,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 566',
@@ -6793,7 +6227,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 567',
@@ -6805,7 +6238,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 568',
@@ -6817,7 +6249,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 569',
@@ -6829,7 +6260,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 570',
@@ -6841,7 +6271,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 571',
@@ -6853,7 +6282,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 572',
@@ -6865,7 +6293,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 573',
@@ -6877,7 +6304,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 574',
@@ -6889,7 +6315,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 575',
@@ -6901,7 +6326,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 576',
@@ -6913,7 +6337,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 577',
@@ -6925,7 +6348,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 578',
@@ -6937,7 +6359,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 579',
@@ -6949,7 +6370,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 580',
@@ -6961,7 +6381,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 581',
@@ -6973,7 +6392,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 582',
@@ -6985,7 +6403,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 583',
@@ -6997,7 +6414,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 584',
@@ -7009,7 +6425,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 585',
@@ -7021,7 +6436,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 586',
@@ -7033,7 +6447,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 587',
@@ -7045,7 +6458,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 588',
@@ -7057,7 +6469,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 589',
@@ -7069,7 +6480,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 590',
@@ -7081,7 +6491,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 591',
@@ -7093,7 +6502,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 592',
@@ -7105,7 +6513,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 593',
@@ -7117,7 +6524,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 594',
@@ -7129,7 +6535,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 595',
@@ -7141,7 +6546,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 596',
@@ -7153,7 +6557,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 597',
@@ -7165,7 +6568,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 598',
@@ -7177,7 +6579,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 599',
@@ -7189,7 +6590,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 600',
@@ -7201,7 +6601,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 601',
@@ -7213,7 +6612,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 602',
@@ -7225,7 +6623,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 603',
@@ -7237,7 +6634,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 604',
@@ -7249,7 +6645,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 605',
@@ -7261,7 +6656,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 606',
@@ -7273,7 +6667,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 607',
@@ -7285,7 +6678,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 608',
@@ -7297,7 +6689,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 609',
@@ -7309,7 +6700,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 610',
@@ -7321,7 +6711,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 611',
@@ -7333,7 +6722,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 612',
@@ -7345,7 +6733,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 613',
@@ -7357,7 +6744,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 614',
@@ -7369,7 +6755,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 615',
@@ -7381,7 +6766,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 616',
@@ -7393,7 +6777,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 617',
@@ -7405,7 +6788,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 618',
@@ -7417,7 +6799,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 619',
@@ -7429,7 +6810,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 620',
@@ -7441,7 +6821,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 621',
@@ -7453,7 +6832,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 622',
@@ -7465,7 +6843,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 623',
@@ -7477,7 +6854,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 624',
@@ -7489,7 +6865,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 625',
@@ -7501,7 +6876,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 626',
@@ -7513,7 +6887,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 627',
@@ -7525,7 +6898,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 628',
@@ -7537,7 +6909,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 629',
@@ -7549,7 +6920,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 630',
@@ -7561,7 +6931,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 631',
@@ -7573,7 +6942,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 632',
@@ -7585,7 +6953,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 633',
@@ -7597,7 +6964,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 634',
@@ -7609,7 +6975,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 635',
@@ -7621,7 +6986,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 636',
@@ -7633,7 +6997,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 637',
@@ -7645,7 +7008,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 638',
@@ -7657,7 +7019,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 639',
@@ -7669,7 +7030,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 640',
@@ -7681,7 +7041,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 641',
@@ -7693,7 +7052,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 642',
@@ -7705,7 +7063,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 643',
@@ -7717,7 +7074,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 644',
@@ -7729,7 +7085,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 645',
@@ -7741,7 +7096,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 646',
@@ -7753,7 +7107,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 647',
@@ -7765,7 +7118,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 648',
@@ -7777,7 +7129,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 649',
@@ -7789,7 +7140,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 650',
@@ -7801,7 +7151,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 651',
@@ -7813,7 +7162,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 652',
@@ -7825,7 +7173,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 653',
@@ -7837,7 +7184,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 654',
@@ -7849,7 +7195,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 655',
@@ -7861,7 +7206,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 656',
@@ -7873,7 +7217,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 657',
@@ -7885,7 +7228,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 658',
@@ -7897,7 +7239,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 659',
@@ -7909,7 +7250,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 660',
@@ -7921,7 +7261,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 661',
@@ -7933,7 +7272,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 662',
@@ -7945,7 +7283,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 663',
@@ -7957,7 +7294,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 664',
@@ -7969,7 +7305,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 665',
@@ -7981,7 +7316,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 666',
@@ -7993,7 +7327,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 667',
@@ -8005,7 +7338,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 668',
@@ -8017,7 +7349,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 669',
@@ -8029,7 +7360,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 670',
@@ -8041,7 +7371,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 671',
@@ -8053,7 +7382,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 672',
@@ -8065,7 +7393,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 673',
@@ -8077,7 +7404,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 674',
@@ -8089,7 +7415,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 675',
@@ -8101,7 +7426,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 676',
@@ -8113,7 +7437,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 677',
@@ -8125,7 +7448,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 678',
@@ -8137,7 +7459,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 679',
@@ -8149,7 +7470,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 680',
@@ -8161,7 +7481,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 681',
@@ -8173,7 +7492,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 682',
@@ -8185,7 +7503,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 683',
@@ -8197,7 +7514,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 684',
@@ -8209,7 +7525,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 685',
@@ -8221,7 +7536,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 686',
@@ -8233,7 +7547,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 687',
@@ -8245,7 +7558,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 688',
@@ -8257,7 +7569,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 689',
@@ -8269,7 +7580,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 690',
@@ -8281,7 +7591,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 691',
@@ -8293,7 +7602,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 692',
@@ -8305,7 +7613,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 693',
@@ -8317,7 +7624,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 694',
@@ -8329,7 +7635,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 695',
@@ -8341,7 +7646,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 696',
@@ -8353,7 +7657,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 697',
@@ -8365,7 +7668,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 698',
@@ -8377,7 +7679,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 699',
@@ -8389,7 +7690,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 700',
@@ -8401,7 +7701,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 701',
@@ -8413,7 +7712,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 702',
@@ -8425,7 +7723,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 703',
@@ -8437,7 +7734,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 704',
@@ -8449,7 +7745,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 705',
@@ -8461,7 +7756,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 706',
@@ -8473,7 +7767,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 707',
@@ -8485,7 +7778,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 708',
@@ -8497,7 +7789,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 709',
@@ -8509,7 +7800,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 710',
@@ -8521,7 +7811,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 711',
@@ -8533,7 +7822,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 712',
@@ -8545,7 +7833,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 713',
@@ -8557,7 +7844,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 714',
@@ -8569,7 +7855,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 715',
@@ -8581,7 +7866,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 716',
@@ -8593,7 +7877,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 717',
@@ -8605,7 +7888,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 718',
@@ -8617,7 +7899,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 719',
@@ -8629,7 +7910,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 720',
@@ -8641,7 +7921,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 721',
@@ -8653,7 +7932,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 722',
@@ -8665,7 +7943,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 723',
@@ -8677,7 +7954,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 724',
@@ -8689,7 +7965,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 725',
@@ -8701,7 +7976,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 726',
@@ -8713,7 +7987,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 727',
@@ -8725,7 +7998,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 728',
@@ -8737,7 +8009,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 729',
@@ -8749,7 +8020,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 730',
@@ -8761,7 +8031,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 731',
@@ -8773,7 +8042,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 732',
@@ -8785,7 +8053,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 733',
@@ -8797,7 +8064,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 734',
@@ -8809,7 +8075,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 735',
@@ -8821,7 +8086,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 736',
@@ -8833,7 +8097,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 737',
@@ -8845,7 +8108,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 738',
@@ -8857,7 +8119,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 739',
@@ -8869,7 +8130,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 740',
@@ -8881,7 +8141,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 741',
@@ -8893,7 +8152,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 742',
@@ -8905,7 +8163,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 743',
@@ -8917,7 +8174,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 744',
@@ -8929,7 +8185,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 745',
@@ -8941,7 +8196,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 746',
@@ -8953,7 +8207,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 747',
@@ -8965,7 +8218,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 748',
@@ -8977,7 +8229,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 749',
@@ -8989,7 +8240,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 750',
@@ -9001,7 +8251,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 751',
@@ -9013,7 +8262,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 752',
@@ -9025,7 +8273,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 753',
@@ -9037,7 +8284,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 754',
@@ -9049,7 +8295,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 755',
@@ -9061,7 +8306,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 756',
@@ -9073,7 +8317,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 757',
@@ -9085,7 +8328,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 758',
@@ -9097,7 +8339,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 759',
@@ -9109,7 +8350,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 760',
@@ -9121,7 +8361,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 761',
@@ -9133,7 +8372,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 762',
@@ -9145,7 +8383,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 763',
@@ -9157,7 +8394,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 764',
@@ -9169,7 +8405,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 765',
@@ -9181,7 +8416,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 766',
@@ -9193,7 +8427,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 767',
@@ -9205,7 +8438,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 768',
@@ -9217,7 +8449,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 769',
@@ -9229,7 +8460,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 770',
@@ -9241,7 +8471,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 771',
@@ -9253,7 +8482,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 772',
@@ -9265,7 +8493,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 773',
@@ -9277,7 +8504,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 774',
@@ -9289,7 +8515,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 775',
@@ -9301,7 +8526,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 776',
@@ -9313,7 +8537,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 777',
@@ -9325,7 +8548,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 778',
@@ -9337,7 +8559,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 779',
@@ -9349,7 +8570,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 780',
@@ -9361,7 +8581,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 781',
@@ -9373,7 +8592,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 782',
@@ -9385,7 +8603,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 783',
@@ -9397,7 +8614,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 784',
@@ -9409,7 +8625,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 785',
@@ -9421,7 +8636,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 786',
@@ -9433,7 +8647,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 787',
@@ -9445,7 +8658,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 788',
@@ -9457,7 +8669,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 789',
@@ -9469,7 +8680,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 790',
@@ -9481,7 +8691,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 791',
@@ -9493,7 +8702,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 792',
@@ -9505,7 +8713,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 793',
@@ -9517,7 +8724,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 794',
@@ -9529,7 +8735,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 795',
@@ -9541,7 +8746,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 796',
@@ -9553,7 +8757,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 797',
@@ -9565,7 +8768,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 798',
@@ -9577,7 +8779,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 799',
@@ -9589,7 +8790,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 800',
@@ -9601,7 +8801,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 801',
@@ -9613,7 +8812,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 802',
@@ -9625,7 +8823,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 803',
@@ -9637,7 +8834,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 804',
@@ -9649,7 +8845,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 805',
@@ -9661,7 +8856,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 806',
@@ -9673,7 +8867,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 807',
@@ -9685,7 +8878,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 808',
@@ -9697,7 +8889,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 809',
@@ -9709,7 +8900,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 810',
@@ -9721,7 +8911,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 811',
@@ -9733,7 +8922,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 812',
@@ -9745,7 +8933,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 813',
@@ -9757,7 +8944,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 814',
@@ -9769,7 +8955,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 815',
@@ -9781,7 +8966,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 816',
@@ -9793,7 +8977,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 817',
@@ -9805,7 +8988,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 818',
@@ -9817,7 +8999,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 819',
@@ -9829,7 +9010,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 820',
@@ -9841,7 +9021,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 821',
@@ -9853,7 +9032,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 822',
@@ -9865,7 +9043,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 823',
@@ -9877,7 +9054,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 824',
@@ -9889,7 +9065,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 825',
@@ -9901,7 +9076,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 826',
@@ -9913,7 +9087,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 827',
@@ -9925,7 +9098,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 828',
@@ -9937,7 +9109,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 829',
@@ -9949,7 +9120,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 830',
@@ -9961,7 +9131,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 831',
@@ -9973,7 +9142,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 832',
@@ -9985,7 +9153,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 833',
@@ -9997,7 +9164,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 834',
@@ -10009,7 +9175,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 835',
@@ -10021,7 +9186,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 836',
@@ -10033,7 +9197,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 837',
@@ -10045,7 +9208,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 838',
@@ -10057,7 +9219,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 839',
@@ -10069,7 +9230,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 840',
@@ -10081,7 +9241,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 841',
@@ -10093,7 +9252,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 842',
@@ -10105,7 +9263,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 843',
@@ -10117,7 +9274,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 844',
@@ -10129,7 +9285,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 845',
@@ -10141,7 +9296,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 846',
@@ -10153,7 +9307,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 847',
@@ -10165,7 +9318,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 848',
@@ -10177,7 +9329,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 849',
@@ -10189,7 +9340,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 850',
@@ -10201,7 +9351,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 851',
@@ -10213,7 +9362,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 852',
@@ -10225,7 +9373,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 853',
@@ -10237,7 +9384,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 854',
@@ -10249,7 +9395,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 855',
@@ -10261,7 +9406,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 856',
@@ -10273,7 +9417,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 857',
@@ -10285,7 +9428,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 858',
@@ -10297,7 +9439,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 859',
@@ -10309,7 +9450,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 860',
@@ -10321,7 +9461,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 861',
@@ -10333,7 +9472,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 862',
@@ -10345,7 +9483,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 863',
@@ -10357,7 +9494,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 864',
@@ -10369,7 +9505,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 865',
@@ -10381,7 +9516,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 866',
@@ -10393,7 +9527,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 867',
@@ -10405,7 +9538,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 868',
@@ -10417,7 +9549,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 869',
@@ -10429,7 +9560,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 870',
@@ -10441,7 +9571,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 871',
@@ -10453,7 +9582,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 872',
@@ -10465,7 +9593,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 873',
@@ -10477,7 +9604,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 874',
@@ -10489,7 +9615,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 875',
@@ -10501,7 +9626,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 876',
@@ -10513,7 +9637,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 877',
@@ -10525,7 +9648,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 878',
@@ -10537,7 +9659,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 879',
@@ -10549,7 +9670,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 880',
@@ -10561,7 +9681,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 881',
@@ -10573,7 +9692,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 882',
@@ -10585,7 +9703,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 883',
@@ -10597,7 +9714,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 884',
@@ -10609,7 +9725,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 885',
@@ -10621,7 +9736,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 886',
@@ -10633,7 +9747,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 887',
@@ -10645,7 +9758,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 888',
@@ -10657,7 +9769,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 889',
@@ -10669,7 +9780,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 890',
@@ -10681,7 +9791,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 891',
@@ -10693,7 +9802,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 892',
@@ -10705,7 +9813,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 893',
@@ -10717,7 +9824,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 894',
@@ -10729,7 +9835,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 895',
@@ -10741,7 +9846,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 896',
@@ -10753,7 +9857,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 897',
@@ -10765,7 +9868,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 898',
@@ -10777,7 +9879,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 899',
@@ -10789,7 +9890,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 900',
@@ -10801,7 +9901,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 901',
@@ -10813,7 +9912,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 902',
@@ -10825,7 +9923,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 903',
@@ -10837,7 +9934,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 904',
@@ -10849,7 +9945,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 905',
@@ -10861,7 +9956,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 906',
@@ -10873,7 +9967,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 907',
@@ -10885,7 +9978,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 908',
@@ -10897,7 +9989,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 909',
@@ -10909,7 +10000,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 910',
@@ -10921,7 +10011,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 911',
@@ -10933,7 +10022,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 912',
@@ -10945,7 +10033,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 913',
@@ -10957,7 +10044,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 914',
@@ -10969,7 +10055,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 915',
@@ -10981,7 +10066,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 916',
@@ -10993,7 +10077,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 917',
@@ -11005,7 +10088,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 918',
@@ -11017,7 +10099,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 919',
@@ -11029,7 +10110,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 920',
@@ -11041,7 +10121,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 921',
@@ -11053,7 +10132,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 922',
@@ -11065,7 +10143,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 923',
@@ -11077,7 +10154,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 924',
@@ -11089,7 +10165,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 925',
@@ -11101,7 +10176,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 926',
@@ -11113,7 +10187,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 927',
@@ -11125,7 +10198,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 928',
@@ -11137,7 +10209,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 929',
@@ -11149,7 +10220,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 930',
@@ -11161,7 +10231,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 931',
@@ -11173,7 +10242,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 932',
@@ -11185,7 +10253,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 933',
@@ -11197,7 +10264,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 934',
@@ -11209,7 +10275,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 935',
@@ -11221,7 +10286,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 936',
@@ -11233,7 +10297,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 937',
@@ -11245,7 +10308,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 938',
@@ -11257,7 +10319,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 939',
@@ -11269,7 +10330,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 940',
@@ -11281,7 +10341,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 941',
@@ -11293,7 +10352,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 942',
@@ -11305,7 +10363,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 943',
@@ -11317,7 +10374,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 944',
@@ -11329,7 +10385,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 945',
@@ -11341,7 +10396,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 946',
@@ -11353,7 +10407,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 947',
@@ -11365,7 +10418,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 948',
@@ -11377,7 +10429,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 949',
@@ -11389,7 +10440,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 950',
@@ -11401,7 +10451,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 951',
@@ -11413,7 +10462,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 952',
@@ -11425,7 +10473,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 953',
@@ -11437,7 +10484,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 954',
@@ -11449,7 +10495,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 955',
@@ -11461,7 +10506,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 956',
@@ -11473,7 +10517,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 957',
@@ -11485,7 +10528,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 958',
@@ -11497,7 +10539,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 959',
@@ -11509,7 +10550,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 960',
@@ -11521,7 +10561,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 961',
@@ -11533,7 +10572,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 962',
@@ -11545,7 +10583,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 963',
@@ -11557,7 +10594,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 964',
@@ -11569,7 +10605,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 965',
@@ -11581,7 +10616,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 966',
@@ -11593,7 +10627,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 967',
@@ -11605,7 +10638,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 968',
@@ -11617,7 +10649,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 969',
@@ -11629,7 +10660,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 970',
@@ -11641,7 +10671,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 971',
@@ -11653,7 +10682,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 972',
@@ -11665,7 +10693,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 973',
@@ -11677,7 +10704,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 974',
@@ -11689,7 +10715,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 975',
@@ -11701,7 +10726,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 976',
@@ -11713,7 +10737,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 977',
@@ -11725,7 +10748,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 978',
@@ -11737,7 +10759,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 979',
@@ -11749,7 +10770,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 980',
@@ -11761,7 +10781,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 981',
@@ -11773,7 +10792,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 982',
@@ -11785,7 +10803,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 983',
@@ -11797,7 +10814,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 984',
@@ -11809,7 +10825,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 985',
@@ -11821,7 +10836,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 986',
@@ -11833,7 +10847,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 987',
@@ -11845,7 +10858,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 988',
@@ -11857,7 +10869,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 989',
@@ -11869,7 +10880,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 990',
@@ -11881,7 +10891,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 991',
@@ -11893,7 +10902,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 992',
@@ -11905,7 +10913,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 993',
@@ -11917,7 +10924,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 994',
@@ -11929,7 +10935,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 995',
@@ -11941,7 +10946,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 996',
@@ -11953,7 +10957,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 997',
@@ -11965,7 +10968,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 998',
@@ -11977,7 +10979,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 999',
@@ -11989,7 +10990,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1000',
@@ -12001,7 +11001,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1001',
@@ -12013,7 +11012,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1002',
@@ -12025,7 +11023,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1003',
@@ -12037,7 +11034,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1004',
@@ -12049,7 +11045,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1005',
@@ -12061,7 +11056,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1006',
@@ -12073,7 +11067,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1007',
@@ -12085,7 +11078,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1008',
@@ -12097,7 +11089,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1009',
@@ -12109,7 +11100,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1010',
@@ -12121,7 +11111,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1011',
@@ -12133,7 +11122,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1012',
@@ -12145,7 +11133,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1013',
@@ -12157,7 +11144,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1014',
@@ -12169,7 +11155,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1015',
@@ -12181,7 +11166,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1016',
@@ -12193,7 +11177,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1017',
@@ -12205,7 +11188,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1018',
@@ -12217,7 +11199,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1019',
@@ -12229,7 +11210,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1020',
@@ -12241,7 +11221,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1021',
@@ -12253,7 +11232,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1022',
@@ -12265,7 +11243,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1023',
@@ -12277,7 +11254,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1024',
@@ -12289,7 +11265,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1025',
@@ -12301,7 +11276,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1026',
@@ -12313,7 +11287,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1027',
@@ -12325,7 +11298,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1028',
@@ -12337,7 +11309,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1029',
@@ -12349,7 +11320,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1030',
@@ -12361,7 +11331,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1031',
@@ -12373,7 +11342,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1032',
@@ -12385,7 +11353,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1033',
@@ -12397,7 +11364,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1034',
@@ -12409,7 +11375,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1035',
@@ -12421,7 +11386,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1036',
@@ -12433,7 +11397,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1037',
@@ -12445,7 +11408,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1038',
@@ -12457,7 +11419,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1039',
@@ -12469,7 +11430,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1040',
@@ -12481,7 +11441,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1041',
@@ -12493,7 +11452,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1042',
@@ -12505,7 +11463,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1043',
@@ -12517,7 +11474,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1044',
@@ -12529,7 +11485,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1045',
@@ -12541,7 +11496,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1046',
@@ -12553,7 +11507,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1047',
@@ -12565,7 +11518,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1048',
@@ -12577,7 +11529,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1049',
@@ -12589,7 +11540,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1050',
@@ -12601,7 +11551,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1051',
@@ -12613,7 +11562,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1052',
@@ -12625,7 +11573,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1053',
@@ -12637,7 +11584,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1054',
@@ -12649,7 +11595,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1055',
@@ -12661,7 +11606,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1056',
@@ -12673,7 +11617,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1057',
@@ -12685,7 +11628,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1058',
@@ -12697,7 +11639,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1059',
@@ -12709,7 +11650,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1060',
@@ -12721,7 +11661,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1061',
@@ -12733,7 +11672,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1062',
@@ -12745,7 +11683,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1063',
@@ -12757,7 +11694,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1064',
@@ -12769,7 +11705,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1065',
@@ -12781,7 +11716,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1066',
@@ -12793,7 +11727,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1067',
@@ -12805,7 +11738,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1068',
@@ -12817,7 +11749,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1069',
@@ -12829,7 +11760,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1070',
@@ -12841,7 +11771,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1071',
@@ -12853,7 +11782,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1072',
@@ -12865,7 +11793,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1073',
@@ -12877,7 +11804,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1074',
@@ -12889,7 +11815,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1075',
@@ -12901,7 +11826,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1076',
@@ -12913,7 +11837,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1077',
@@ -12925,7 +11848,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1078',
@@ -12937,7 +11859,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1079',
@@ -12949,7 +11870,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1080',
@@ -12961,7 +11881,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1081',
@@ -12973,7 +11892,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1082',
@@ -12985,7 +11903,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1083',
@@ -12997,7 +11914,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1084',
@@ -13009,7 +11925,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1085',
@@ -13021,7 +11936,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1086',
@@ -13033,7 +11947,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1087',
@@ -13045,7 +11958,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1088',
@@ -13057,7 +11969,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1089',
@@ -13069,7 +11980,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1090',
@@ -13081,7 +11991,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1091',
@@ -13093,7 +12002,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1092',
@@ -13105,7 +12013,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1093',
@@ -13117,7 +12024,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1094',
@@ -13129,7 +12035,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1095',
@@ -13141,7 +12046,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1096',
@@ -13153,7 +12057,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1097',
@@ -13165,7 +12068,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1098',
@@ -13177,7 +12079,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1099',
@@ -13189,7 +12090,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1100',
@@ -13201,7 +12101,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1101',
@@ -13213,7 +12112,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1102',
@@ -13225,7 +12123,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1103',
@@ -13237,7 +12134,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1104',
@@ -13249,7 +12145,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1105',
@@ -13261,7 +12156,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1106',
@@ -13273,7 +12167,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1107',
@@ -13285,7 +12178,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1108',
@@ -13297,7 +12189,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1109',
@@ -13309,7 +12200,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1110',
@@ -13321,7 +12211,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1111',
@@ -13333,7 +12222,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1112',
@@ -13345,7 +12233,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1113',
@@ -13357,7 +12244,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1114',
@@ -13369,7 +12255,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1115',
@@ -13381,7 +12266,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1116',
@@ -13393,7 +12277,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1117',
@@ -13405,7 +12288,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1118',
@@ -13417,7 +12299,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1119',
@@ -13429,7 +12310,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1120',
@@ -13441,7 +12321,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1121',
@@ -13453,7 +12332,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1122',
@@ -13465,7 +12343,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1123',
@@ -13477,7 +12354,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1124',
@@ -13489,7 +12365,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1125',
@@ -13501,7 +12376,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1126',
@@ -13513,7 +12387,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1127',
@@ -13525,7 +12398,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1128',
@@ -13537,7 +12409,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1129',
@@ -13549,7 +12420,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1130',
@@ -13561,7 +12431,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1131',
@@ -13573,7 +12442,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1132',
@@ -13585,7 +12453,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1133',
@@ -13597,7 +12464,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1134',
@@ -13609,7 +12475,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1135',
@@ -13621,7 +12486,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1136',
@@ -13633,7 +12497,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1137',
@@ -13645,7 +12508,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1138',
@@ -13657,7 +12519,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1139',
@@ -13669,7 +12530,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1140',
@@ -13681,7 +12541,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1141',
@@ -13693,7 +12552,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1142',
@@ -13705,7 +12563,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1143',
@@ -13717,7 +12574,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1144',
@@ -13729,7 +12585,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1145',
@@ -13741,7 +12596,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1146',
@@ -13753,7 +12607,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1147',
@@ -13765,7 +12618,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1148',
@@ -13777,7 +12629,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1149',
@@ -13789,7 +12640,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1150',
@@ -13801,7 +12651,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1151',
@@ -13813,7 +12662,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1152',
@@ -13825,7 +12673,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1153',
@@ -13837,7 +12684,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1154',
@@ -13849,7 +12695,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1155',
@@ -13861,7 +12706,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1156',
@@ -13873,7 +12717,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1157',
@@ -13885,7 +12728,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1158',
@@ -13897,7 +12739,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1159',
@@ -13909,7 +12750,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1160',
@@ -13921,7 +12761,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1161',
@@ -13933,7 +12772,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1162',
@@ -13945,7 +12783,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1163',
@@ -13957,7 +12794,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1164',
@@ -13969,7 +12805,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1165',
@@ -13981,7 +12816,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1166',
@@ -13993,7 +12827,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1167',
@@ -14005,7 +12838,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1168',
@@ -14017,7 +12849,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1169',
@@ -14029,7 +12860,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1170',
@@ -14041,7 +12871,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1171',
@@ -14053,7 +12882,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1172',
@@ -14065,7 +12893,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1173',
@@ -14077,7 +12904,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1174',
@@ -14089,7 +12915,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1175',
@@ -14101,7 +12926,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1176',
@@ -14113,7 +12937,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1177',
@@ -14125,7 +12948,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1178',
@@ -14137,7 +12959,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1179',
@@ -14149,7 +12970,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1180',
@@ -14161,7 +12981,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1181',
@@ -14173,7 +12992,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1182',
@@ -14185,7 +13003,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1183',
@@ -14197,7 +13014,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1184',
@@ -14209,7 +13025,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1185',
@@ -14221,7 +13036,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1186',
@@ -14233,7 +13047,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1187',
@@ -14245,7 +13058,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1188',
@@ -14257,7 +13069,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1189',
@@ -14269,7 +13080,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1190',
@@ -14281,7 +13091,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1191',
@@ -14293,7 +13102,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1192',
@@ -14305,7 +13113,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1193',
@@ -14317,7 +13124,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1194',
@@ -14329,7 +13135,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1195',
@@ -14341,7 +13146,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1196',
@@ -14353,7 +13157,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1197',
@@ -14365,7 +13168,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1198',
@@ -14377,7 +13179,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1199',
@@ -14389,7 +13190,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1200',
@@ -14401,7 +13201,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1201',
@@ -14413,7 +13212,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1202',
@@ -14425,7 +13223,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1203',
@@ -14437,7 +13234,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1204',
@@ -14449,7 +13245,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1205',
@@ -14461,7 +13256,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1206',
@@ -14473,7 +13267,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1207',
@@ -14485,7 +13278,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1208',
@@ -14497,7 +13289,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1209',
@@ -14509,7 +13300,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1210',
@@ -14521,7 +13311,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1211',
@@ -14533,7 +13322,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1212',
@@ -14545,7 +13333,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1213',
@@ -14557,7 +13344,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1214',
@@ -14569,7 +13355,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1215',
@@ -14581,7 +13366,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1216',
@@ -14593,7 +13377,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1217',
@@ -14605,7 +13388,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1218',
@@ -14617,7 +13399,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1219',
@@ -14629,7 +13410,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1220',
@@ -14641,7 +13421,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1221',
@@ -14653,7 +13432,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1222',
@@ -14665,7 +13443,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1223',
@@ -14677,7 +13454,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1224',
@@ -14689,7 +13465,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1225',
@@ -14701,7 +13476,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1226',
@@ -14713,7 +13487,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1227',
@@ -14725,7 +13498,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1228',
@@ -14737,7 +13509,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1229',
@@ -14749,7 +13520,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance 1230',
@@ -14761,7 +13531,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink',
@@ -14783,7 +13552,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 2',
@@ -14805,7 +13573,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 3',
@@ -14827,7 +13594,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 4',
@@ -14849,7 +13615,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 5',
@@ -14871,7 +13636,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 6',
@@ -14893,7 +13657,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 7',
@@ -14915,7 +13678,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 8',
@@ -14937,7 +13699,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 9',
@@ -14959,7 +13720,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 10',
@@ -14981,7 +13741,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 11',
@@ -15003,7 +13762,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 12',
@@ -15025,7 +13783,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 13',
@@ -15047,7 +13804,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 14',
@@ -15069,7 +13825,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 15',
@@ -15091,7 +13846,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 16',
@@ -15113,7 +13867,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 17',
@@ -15135,7 +13888,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 18',
@@ -15157,7 +13909,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 19',
@@ -15179,7 +13930,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Drink 20',
@@ -15201,7 +13951,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club',
@@ -15213,7 +13962,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 2',
@@ -15225,7 +13973,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 3',
@@ -15237,7 +13984,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 4',
@@ -15249,7 +13995,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 5',
@@ -15261,7 +14006,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 6',
@@ -15273,7 +14017,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 7',
@@ -15285,7 +14028,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 8',
@@ -15297,7 +14039,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 9',
@@ -15309,7 +14050,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 10',
@@ -15321,7 +14061,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 11',
@@ -15333,7 +14072,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 12',
@@ -15345,7 +14083,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 13',
@@ -15357,7 +14094,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 14',
@@ -15369,7 +14105,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 15',
@@ -15381,7 +14116,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 16',
@@ -15393,7 +14127,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 17',
@@ -15405,7 +14138,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 18',
@@ -15417,7 +14149,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 19',
@@ -15429,7 +14160,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 20',
@@ -15441,7 +14171,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 21',
@@ -15453,7 +14182,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 22',
@@ -15465,7 +14193,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 23',
@@ -15477,7 +14204,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 24',
@@ -15489,7 +14215,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 25',
@@ -15501,7 +14226,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 26',
@@ -15513,7 +14237,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 27',
@@ -15525,7 +14248,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 28',
@@ -15537,7 +14259,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 29',
@@ -15549,7 +14270,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 30',
@@ -15561,7 +14281,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 31',
@@ -15573,7 +14292,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 32',
@@ -15585,7 +14303,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 33',
@@ -15597,7 +14314,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 34',
@@ -15609,7 +14325,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 35',
@@ -15621,7 +14336,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 36',
@@ -15633,7 +14347,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 37',
@@ -15645,7 +14358,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 38',
@@ -15657,7 +14369,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 39',
@@ -15669,7 +14380,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 40',
@@ -15681,7 +14391,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 41',
@@ -15693,7 +14402,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 42',
@@ -15705,7 +14413,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 43',
@@ -15717,7 +14424,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 44',
@@ -15729,7 +14435,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 45',
@@ -15741,7 +14446,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 46',
@@ -15753,7 +14457,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 47',
@@ -15765,7 +14468,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 48',
@@ -15777,7 +14479,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 49',
@@ -15789,7 +14490,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 50',
@@ -15801,7 +14501,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 51',
@@ -15813,7 +14512,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 52',
@@ -15825,7 +14523,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 53',
@@ -15837,7 +14534,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 54',
@@ -15849,7 +14545,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 55',
@@ -15861,7 +14556,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 56',
@@ -15873,7 +14567,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 57',
@@ -15885,7 +14578,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 58',
@@ -15897,7 +14589,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 59',
@@ -15909,7 +14600,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 60',
@@ -15921,7 +14611,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 61',
@@ -15933,7 +14622,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 62',
@@ -15945,7 +14633,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 63',
@@ -15957,7 +14644,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 64',
@@ -15969,7 +14655,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 65',
@@ -15981,7 +14666,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 66',
@@ -15993,7 +14677,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 67',
@@ -16005,7 +14688,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 68',
@@ -16017,7 +14699,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 69',
@@ -16029,7 +14710,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 70',
@@ -16041,7 +14721,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 71',
@@ -16053,7 +14732,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 72',
@@ -16065,7 +14743,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 73',
@@ -16077,7 +14754,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 74',
@@ -16089,7 +14765,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 75',
@@ -16101,7 +14776,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 76',
@@ -16113,7 +14787,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 77',
@@ -16125,7 +14798,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 78',
@@ -16137,7 +14809,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 79',
@@ -16149,7 +14820,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 80',
@@ -16161,7 +14831,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 81',
@@ -16173,7 +14842,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 82',
@@ -16185,7 +14853,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 83',
@@ -16197,7 +14864,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 84',
@@ -16209,7 +14875,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 85',
@@ -16221,7 +14886,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 86',
@@ -16233,7 +14897,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 87',
@@ -16245,7 +14908,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 88',
@@ -16257,7 +14919,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 89',
@@ -16269,7 +14930,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 90',
@@ -16281,7 +14941,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 91',
@@ -16293,7 +14952,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 92',
@@ -16305,7 +14963,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 93',
@@ -16317,7 +14974,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 94',
@@ -16329,7 +14985,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 95',
@@ -16341,7 +14996,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 96',
@@ -16353,7 +15007,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 97',
@@ -16365,7 +15018,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 98',
@@ -16377,7 +15029,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 99',
@@ -16389,7 +15040,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 100',
@@ -16401,7 +15051,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 101',
@@ -16413,7 +15062,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 102',
@@ -16425,7 +15073,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 103',
@@ -16437,7 +15084,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 104',
@@ -16449,7 +15095,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 105',
@@ -16461,7 +15106,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 106',
@@ -16473,7 +15117,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 107',
@@ -16485,7 +15128,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 108',
@@ -16497,7 +15139,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 109',
@@ -16509,7 +15150,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 110',
@@ -16521,7 +15161,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 111',
@@ -16533,7 +15172,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 112',
@@ -16545,7 +15183,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 113',
@@ -16557,7 +15194,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 114',
@@ -16569,7 +15205,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 115',
@@ -16581,7 +15216,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 116',
@@ -16593,7 +15227,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 117',
@@ -16605,7 +15238,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 118',
@@ -16617,7 +15249,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 119',
@@ -16629,7 +15260,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 120',
@@ -16641,7 +15271,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 121',
@@ -16653,7 +15282,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 122',
@@ -16665,7 +15293,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 123',
@@ -16677,7 +15304,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 124',
@@ -16689,7 +15315,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 125',
@@ -16701,7 +15326,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 126',
@@ -16713,7 +15337,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 127',
@@ -16725,7 +15348,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 128',
@@ -16737,7 +15359,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 129',
@@ -16749,7 +15370,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 130',
@@ -16761,7 +15381,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 131',
@@ -16773,7 +15392,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 132',
@@ -16785,7 +15403,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 133',
@@ -16797,7 +15414,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 134',
@@ -16809,7 +15425,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 135',
@@ -16821,7 +15436,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 136',
@@ -16833,7 +15447,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 137',
@@ -16845,7 +15458,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 138',
@@ -16857,7 +15469,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 139',
@@ -16869,7 +15480,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 140',
@@ -16881,7 +15491,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 141',
@@ -16893,7 +15502,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 142',
@@ -16905,7 +15513,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 143',
@@ -16917,7 +15524,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 144',
@@ -16929,7 +15535,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 145',
@@ -16941,7 +15546,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 146',
@@ -16953,7 +15557,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 147',
@@ -16965,7 +15568,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 148',
@@ -16977,7 +15579,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 149',
@@ -16989,7 +15590,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 150',
@@ -17001,7 +15601,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 151',
@@ -17013,7 +15612,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 152',
@@ -17025,7 +15623,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 153',
@@ -17037,7 +15634,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 154',
@@ -17049,7 +15645,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 155',
@@ -17061,7 +15656,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 156',
@@ -17073,7 +15667,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 157',
@@ -17085,7 +15678,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 158',
@@ -17097,7 +15689,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 159',
@@ -17109,7 +15700,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 160',
@@ -17121,7 +15711,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 161',
@@ -17133,7 +15722,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 162',
@@ -17145,7 +15733,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 163',
@@ -17157,7 +15744,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 164',
@@ -17169,7 +15755,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 165',
@@ -17181,7 +15766,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 166',
@@ -17193,7 +15777,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 167',
@@ -17205,7 +15788,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 168',
@@ -17217,7 +15799,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 169',
@@ -17229,7 +15810,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 170',
@@ -17241,7 +15821,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 171',
@@ -17253,7 +15832,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 172',
@@ -17265,7 +15843,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 173',
@@ -17277,7 +15854,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 174',
@@ -17289,7 +15865,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 175',
@@ -17301,7 +15876,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 176',
@@ -17313,7 +15887,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 177',
@@ -17325,7 +15898,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 178',
@@ -17337,7 +15909,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 179',
@@ -17349,7 +15920,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 180',
@@ -17361,7 +15931,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 181',
@@ -17373,7 +15942,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 182',
@@ -17385,7 +15953,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 183',
@@ -17397,7 +15964,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 184',
@@ -17409,7 +15975,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 185',
@@ -17421,7 +15986,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 186',
@@ -17433,7 +15997,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 187',
@@ -17445,7 +16008,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 188',
@@ -17457,7 +16019,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 189',
@@ -17469,7 +16030,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 190',
@@ -17481,7 +16041,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 191',
@@ -17493,7 +16052,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 192',
@@ -17505,7 +16063,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 193',
@@ -17517,7 +16074,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 194',
@@ -17529,7 +16085,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 195',
@@ -17541,7 +16096,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 196',
@@ -17553,7 +16107,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 197',
@@ -17565,7 +16118,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 198',
@@ -17577,7 +16129,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Club 199',
@@ -17589,7 +16140,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach',
@@ -17601,7 +16151,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 2',
@@ -17613,7 +16162,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 3',
@@ -17625,7 +16173,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 4',
@@ -17637,7 +16184,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 5',
@@ -17649,7 +16195,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 6',
@@ -17661,7 +16206,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 7',
@@ -17673,7 +16217,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 8',
@@ -17685,7 +16228,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 9',
@@ -17697,7 +16239,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 10',
@@ -17709,7 +16250,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 11',
@@ -17721,7 +16261,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 12',
@@ -17733,7 +16272,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 13',
@@ -17745,7 +16283,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 14',
@@ -17757,7 +16294,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 15',
@@ -17769,7 +16305,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 16',
@@ -17781,7 +16316,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 17',
@@ -17793,7 +16327,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 18',
@@ -17805,7 +16338,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 19',
@@ -17817,7 +16349,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 20',
@@ -17829,7 +16360,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 21',
@@ -17841,7 +16371,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 22',
@@ -17853,7 +16382,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 23',
@@ -17865,7 +16393,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 24',
@@ -17877,7 +16404,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 25',
@@ -17889,7 +16415,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 26',
@@ -17901,7 +16426,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 27',
@@ -17913,7 +16437,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 28',
@@ -17925,7 +16448,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 29',
@@ -17937,7 +16459,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 30',
@@ -17949,7 +16470,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 31',
@@ -17961,7 +16481,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 32',
@@ -17973,7 +16492,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 33',
@@ -17985,7 +16503,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 34',
@@ -17997,7 +16514,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 35',
@@ -18009,7 +16525,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 36',
@@ -18021,7 +16536,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 37',
@@ -18033,7 +16547,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 38',
@@ -18045,7 +16558,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 39',
@@ -18057,7 +16569,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 40',
@@ -18069,7 +16580,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 41',
@@ -18081,7 +16591,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 42',
@@ -18093,7 +16602,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 43',
@@ -18105,7 +16613,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 44',
@@ -18117,7 +16624,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 45',
@@ -18129,7 +16635,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 46',
@@ -18141,7 +16646,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 47',
@@ -18153,7 +16657,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 48',
@@ -18165,7 +16668,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 49',
@@ -18177,7 +16679,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 50',
@@ -18189,7 +16690,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 51',
@@ -18201,7 +16701,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 52',
@@ -18213,7 +16712,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 53',
@@ -18225,7 +16723,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 54',
@@ -18237,7 +16734,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 55',
@@ -18249,7 +16745,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 56',
@@ -18261,7 +16756,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 57',
@@ -18273,7 +16767,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 58',
@@ -18285,7 +16778,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 59',
@@ -18297,7 +16789,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 60',
@@ -18309,7 +16800,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 61',
@@ -18321,7 +16811,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 62',
@@ -18333,7 +16822,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 63',
@@ -18345,7 +16833,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 64',
@@ -18357,7 +16844,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 65',
@@ -18369,7 +16855,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 66',
@@ -18381,7 +16866,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Beach 66',
@@ -18393,7 +16877,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump',
@@ -18405,7 +16888,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 2',
@@ -18417,7 +16899,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 3',
@@ -18429,7 +16910,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 4',
@@ -18441,7 +16921,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 5',
@@ -18453,7 +16932,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 6',
@@ -18465,7 +16943,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 7',
@@ -18477,7 +16954,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 8',
@@ -18489,7 +16965,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 9',
@@ -18501,7 +16976,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 10',
@@ -18513,7 +16987,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 11',
@@ -18525,7 +16998,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 12',
@@ -18537,7 +17009,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 13',
@@ -18549,7 +17020,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 14',
@@ -18561,7 +17031,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 15',
@@ -18573,7 +17042,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 16',
@@ -18585,7 +17053,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 17',
@@ -18597,7 +17064,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 18',
@@ -18609,7 +17075,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 19',
@@ -18621,7 +17086,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 20',
@@ -18633,7 +17097,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 21',
@@ -18645,7 +17108,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 22',
@@ -18657,7 +17119,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 23',
@@ -18669,7 +17130,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 24',
@@ -18681,7 +17141,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 25',
@@ -18693,7 +17152,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 26',
@@ -18705,7 +17163,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Jump 27',
@@ -18717,7 +17174,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Glowsticks',
@@ -18748,7 +17204,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Glowsticks 2',
@@ -18778,7 +17233,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Glowsticks 3',
@@ -18808,7 +17262,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Fortnite - Downward',
@@ -18820,7 +17273,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Fortnite - Pullup',
@@ -18832,7 +17284,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Fortnite - Rollie',
@@ -18844,7 +17295,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Fortnite - Wanna See Me',
@@ -18856,7 +17306,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Fortnite - Billy Bounce',
@@ -18868,7 +17317,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Gangnam Style',
@@ -18880,7 +17328,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Hip Hop Dance',
@@ -18892,7 +17339,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Hip Hop Dance 2',
@@ -18904,7 +17350,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Hip Hop Dance 3',
@@ -18916,7 +17361,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Horse',
@@ -18939,7 +17383,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Horse 2',
@@ -18961,7 +17404,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Horse 3',
@@ -18983,7 +17425,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance - MJ Thriller',
@@ -18995,7 +17436,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Old',
@@ -19007,7 +17447,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Pride A',
@@ -19037,7 +17476,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19068,7 +17506,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19099,7 +17536,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19130,7 +17566,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19161,7 +17596,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19192,7 +17626,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19223,7 +17656,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19254,7 +17686,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19285,7 +17716,6 @@ return {
                     },
                 },
             },
-            CanGroupEmote = true,
             SocialMovement = true,
         },
         {
@@ -19298,7 +17728,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Shy 2',
@@ -19310,7 +17739,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly',
@@ -19322,7 +17750,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 2',
@@ -19334,7 +17761,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 3',
@@ -19346,7 +17772,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 4',
@@ -19358,7 +17783,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 5',
@@ -19370,7 +17794,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 6',
@@ -19382,7 +17805,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 7',
@@ -19394,7 +17816,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 8',
@@ -19406,7 +17827,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 9',
@@ -19418,7 +17838,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Silly 10',
@@ -19430,7 +17849,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Slow',
@@ -19442,7 +17860,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Slow 2',
@@ -19454,7 +17871,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Slow 3',
@@ -19466,7 +17882,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Slow 4',
@@ -19478,7 +17893,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Upper',
@@ -19491,7 +17905,6 @@ return {
                     Move = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Upper 2',
@@ -19504,7 +17917,6 @@ return {
                     Move = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ',
@@ -19517,7 +17929,6 @@ return {
                     Move = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 1',
@@ -19529,7 +17940,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 2',
@@ -19541,7 +17951,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 3',
@@ -19553,7 +17962,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 4',
@@ -19565,7 +17973,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 5',
@@ -19577,7 +17984,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 6',
@@ -19589,7 +17995,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 7',
@@ -19601,7 +18006,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 8',
@@ -19613,7 +18017,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'DJ 9',
@@ -19625,7 +18028,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lap Chair',
@@ -19637,7 +18039,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lap Chair2',
@@ -19649,7 +18050,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lap Chair3',
@@ -19661,7 +18061,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance',
@@ -19679,7 +18078,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance 3',
@@ -19691,7 +18089,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance 4',
@@ -19703,7 +18100,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance 5',
@@ -19715,7 +18111,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance 6',
@@ -19727,7 +18122,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance With',
@@ -19739,7 +18133,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance With2',
@@ -19751,7 +18144,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Lapdance With3',
@@ -19763,7 +18155,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Makarena',
@@ -19775,7 +18166,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Salsa',
@@ -19787,7 +18177,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Salsa 2',
@@ -19799,7 +18188,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Short Dance',
@@ -19811,7 +18199,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Short Dance 2',
@@ -19823,7 +18210,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer',
@@ -19835,7 +18221,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 2',
@@ -19847,7 +18232,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 3',
@@ -19859,7 +18243,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 4',
@@ -19871,7 +18254,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 5',
@@ -19883,7 +18265,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 6',
@@ -19895,7 +18276,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 7',
@@ -19907,7 +18287,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 8',
@@ -19919,7 +18298,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 9',
@@ -19931,7 +18309,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Singer 10',
@@ -19943,7 +18320,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Twerk',
@@ -19955,7 +18331,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Wave Dance',
@@ -19967,7 +18342,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Wave Dance 2',
@@ -19979,7 +18353,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Wave Dance 3',
@@ -19991,7 +18364,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Wave Dance 4',
@@ -20003,7 +18375,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Tutankhamen',
@@ -20015,7 +18386,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Tutankhamen 2',
@@ -20027,7 +18397,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Snake Dance',
@@ -20039,7 +18408,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Slide Dance',
@@ -20051,7 +18419,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Slide Dance 2',
@@ -20063,7 +18430,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Robot Dance',
@@ -20075,7 +18441,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Locking Dance',
@@ -20087,7 +18452,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Headspin',
@@ -20117,7 +18481,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Crank Dat',
@@ -20129,7 +18492,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
         {
             Label = 'Dance Crank Dat 2',
@@ -20141,7 +18503,6 @@ return {
                     Loop = true,
                 },
             },
-            CanGroupEmote = true,
         },
     }
 }
