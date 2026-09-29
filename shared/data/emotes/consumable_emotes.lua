@@ -1,5 +1,6 @@
 return {
-    name = 'Consumable Emotes',
+    name = locale('consumable_emotes'),
+    type = 'consumable_emotes',
     icon = 'fa-solid fa-pizza-slice',
     options = {
         {
@@ -468,8 +469,8 @@ return {
                         Bone = 60309,
                         Name = 'bzzz_food_xmas_lollipop_a',
                         Placement = {
-                            vec3(-0.03, 0.018, 0.0),
-                            vec3(220.0, 180.0, -88.098999),
+                            vec3(0.02, -0.05, -0.02),
+                            vec3(-73.0, -5.0, 50.0),
                         },
                     },
                 },
@@ -489,8 +490,8 @@ return {
                         Bone = 60309,
                         Name = 'bzzz_food_xmas_lollipop_b',
                         Placement = {
-                            vec3(-0.03, 0.018, 0.0),
-                            vec3(220.0, 180.0, -88.098999),
+                            vec3(0.02, -0.05, -0.02),
+                            vec3(-73.0, -5.0, 50.0),
                         },
                     },
                 },
@@ -510,8 +511,8 @@ return {
                         Bone = 60309,
                         Name = 'bzzz_food_xmas_lollipop_c',
                         Placement = {
-                            vec3(-0.03, 0.018, 0.0),
-                            vec3(220.0, 180.0, -88.098999),
+                            vec3(0.02, -0.05, -0.02),
+                            vec3(-73.0, -5.0, 50.0),
                         },
                     },
                 },
@@ -531,8 +532,8 @@ return {
                         Bone = 60309,
                         Name = 'bzzz_food_xmas_lollipop_d',
                         Placement = {
-                            vec3(-0.03, 0.018, 0.0),
-                            vec3(220.0, 180.0, -88.098999),
+                            vec3(0.02, -0.05, -0.02),
+                            vec3(-73.0, -5.0, 50.0),
                         },
                     },
                 },
@@ -552,8 +553,8 @@ return {
                         Bone = 60309,
                         Name = 'bzzz_food_xmas_lollipop_e',
                         Placement = {
-                            vec3(-0.03, 0.018, 0.0),
-                            vec3(220.0, 180.0, -88.098999),
+                            vec3(0.02, -0.05, -0.02),
+                            vec3(-73.0, -5.0, 50.0),
                         },
                     },
                 },
@@ -871,11 +872,11 @@ return {
                 },
                 Props = {
                     {
-                        Bone = -28905,
+                        Bone = 60309,
                         Name = 'bzzz_food_xmas_gingerbread_a',
                         Placement = {
-                            vec3(0.16, 0.04, 0.03),
-                            vec3(18.0, 164.0, -5.0),
+                            vec3(0.02, 0.0, -0.01),
+                            vec3(362.0, -8.0, 432.0),
                         },
                     },
                 },
@@ -1360,11 +1361,11 @@ return {
                 },
                 Props = {
                     {
-                        Bone = -28905,
+                        Bone = 60309,
                         Name = 'bzzz_food_xmas_macaroon_a',
                         Placement = {
-                            vec3(0.15, 0.07, 0.0),
-                            vec3(38.0, 7.0, 7.0),
+                            vec3(0.0, 0.0, 0.0),
+                            vec3(0.0, 0.0, 0.0),
                         },
                     },
                 },
@@ -1783,11 +1784,11 @@ return {
                 },
                 Props = {
                     {
-                        Bone = -28905,
+                        Bone = 60309,
                         Name = 'bzzz_food_xmas_mug_a',
                         Placement = {
-                            vec3(0.09, -0.01, 0.08),
-                            vec3(-44.0, 137.0, 9.0),
+                            vec3(-0.01, 0.02, 0.0),
+                            vec3(0.0, 0.0, 0.0),
                         },
                     },
                 },
@@ -1804,11 +1805,11 @@ return {
                 },
                 Props = {
                     {
-                        Bone = -28905,
+                        Bone = 60309,
                         Name = 'bzzz_food_xmas_mug_b',
                         Placement = {
-                            vec3(0.09, -0.01, 0.08),
-                            vec3(-44.0, 137.0, 9.0),
+                            vec3(0.0, 0.01, 0.0),
+                            vec3(0.0, 0.0, 0.0),
                         },
                     },
                 },
@@ -1825,7 +1826,7 @@ return {
                 },
                 Props = {
                     {
-                        Bone = -28905,
+                        Bone = 18905,
                         Name = 'bzzz_food_xmas_mulled_wine_a',
                         Placement = {
                             vec3(0.13, 0.03, 0.05),

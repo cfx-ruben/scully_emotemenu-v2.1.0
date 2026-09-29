@@ -1,5 +1,3 @@
-lib.locale()
-
 KVP = require 'client.modules.kvp'
 NUI = require 'client.modules.nui'
 Utils = require 'shared.modules.utils'
@@ -51,7 +49,9 @@ exports('getLastEmote', GetLastEmote)
 function PlayEmote(data, variation)
     if PlayerState.isLimited then return end
 
-    if data.Synchronized and not data.StartSynchronized then
+    if data.CanGroupEmote and IsControlPressed(0, 47) and not data.StartGroupEmote then
+        TriggerServerEvent('scully_emotemenu:requestGroupEmote', data)
+    elseif data.Synchronized and not data.StartSynchronized then
         local coords = GetEntityCoords(cache.ped)
         local targetId = lib.getClosestPlayer(coords, 3.0, false)
 
@@ -210,6 +210,7 @@ function PlayEmote(data, variation)
                 end
 
                 props[i] = {
+                    name = prop.Name,
                     hash = joaat(prop.Name),
                     bone = prop.Bone,
                     placement = prop.Placement,
@@ -566,9 +567,24 @@ function CreateProps(ped, data)
 
     for i = 1, #data do
         local prop = data[i]
+        local success, result = pcall(lib.requestModel, prop.hash)
 
-        lib.requestModel(prop.hash)
-        
+        if not success then
+            Utils.notify('error', result or '')
+
+            goto skipProp
+        end
+
+        local min, max = GetModelDimensions(prop.hash)
+        local size = max - min
+        local largestDimension = math.max(size.x, size.y, size.z)
+
+        if largestDimension > 5.0 or IsModelAPed(prop.hash) or IsModelAVehicle(prop.hash) then
+            Utils.notify('error', locale('not_valid_prop', prop.name))
+
+            goto skipProp
+        end
+
         local coords = GetEntityCoords(ped)
         local object = CreateObject(prop.hash, coords.x, coords.y, coords.z, false, false, false)
         
@@ -583,6 +599,8 @@ function CreateProps(ped, data)
             entity = object,
             hasPtfx = prop.hasPtfx
         }
+
+        ::skipProp::
     end
 
     return props
@@ -659,21 +677,66 @@ exports('isLimited', IsLimited)
 
 local IsControlJustPressed = IsControlJustPressed
 
-RegisterNetEvent('scully_emotemenu:synchronizedEmoteRequest', function(sender, senderData, targetData)
+---Handles the emote request interface
+---@param label string
+---@param cb function
+-- RegisterNetEvent('scully_emotemenu:synchronizedEmoteRequest', function(sender, senderData, targetData)
+local function emoteRequest(label, cb)
     PlaySoundFrontend(-1, 'NAV', 'HUD_AMMO_SHOP_SOUNDSET', false)
-    lib.showTextUI(locale('accept_deny', targetData.Label))
 
-    while true do
-        Wait(0)
+    local timeout = 5
+
+    CreateThread(function()
+        while timeout >= 0 do
+            lib.showTextUI(locale('accept_deny', timeout, label))
+
+            timeout -= 1
+
+            Wait(1000)
+        end
+
+        lib.hideTextUI()
+    end)
+
+    while timeout >= 0 do
         if IsControlJustPressed(0, 246) then
-            lib.hideTextUI()
-            TriggerServerEvent('scully_emotemenu:synchronizedEmoteResponse', sender, senderData, targetData)
+            cb()
             break
         elseif IsControlJustPressed(0, 306) then
-            lib.hideTextUI()
             break
         end
+        Wait(0)
     end
+
+    timeout = -1
+end
+
+RegisterNetEvent('scully_emotemenu:groupEmoteRequest', function(senderId, senderData)
+    emoteRequest(senderData.Label, function()
+        local sender = GetPlayerFromServerId(senderId)
+
+        if sender ~= -1 then
+            local senderPed = GetPlayerPed(sender)
+
+            if DoesEntityExist(senderPed) then
+                senderData.StartGroupEmote = true
+
+                PlayEmote(senderData)
+
+                Wait(100)
+
+                local animTime = GetEntityAnimCurrentTime(senderPed, value.dict, value.anim)
+
+                SetEntityAnimCurrentTime(cache.ped, value.dict, value.anim, animTime)
+            end
+        end
+    end)
+end)
+
+RegisterNetEvent('scully_emotemenu:synchronizedEmoteRequest', function(sender, senderData, targetData)
+    emoteRequest(targetData.Label, function()
+        TriggerServerEvent('scully_emotemenu:synchronizedEmoteResponse', sender, senderData, targetData)
+    end)
 end)
 
 RegisterNetEvent('scully_emotemenu:targetStartSynchronizedEmote', function(sender, senderData, targetData)
@@ -813,12 +876,11 @@ AddStateBagChangeHandler('emotePtfx', nil, function(bagName, key, value, reserve
 
     local ped = GetPlayerPed(player)
     local serverId = GetPlayerServerId(player)
-    local ptfx = Player(serverId).state.ptfx
+    local state = Player(serverId).state
+    local ptfx = state?.ptfx
+    local hasPtfx = pedPtfx[serverId]
 
-    if not ptfx then return end
-    if not value then
-        local hasPtfx = pedPtfx[serverId]
-
+    if hasPtfx and not value then
         if hasPtfx then
             StopParticleFxLooped(hasPtfx, false)
             
@@ -827,7 +889,8 @@ AddStateBagChangeHandler('emotePtfx', nil, function(bagName, key, value, reserve
         return
     end
 
-    Wait(100)
+    if hasPtfx or not ptfx then return end
+    if ptfx?.canHold and not state.emotePtfx then return end
 
     local props = pedProps[serverId]
     local target = ped
@@ -861,9 +924,11 @@ AddStateBagChangeHandler('emotePtfx', nil, function(bagName, key, value, reserve
         SetParticleFxLoopedColour(effect, ptfx.color.R / 255, ptfx.color.G / 255, ptfx.color.B / 255, false)
     end
 
-    RemoveNamedPtfxAsset(ptfx.asset)
-
     pedPtfx[serverId] = effect
+
+    Wait(1000)
+
+    RemoveNamedPtfxAsset(ptfx.asset)
 end)
 
 AddStateBagChangeHandler('inSynchronizedEmote', nil, function(bagName, key, value, reserved, replicated)
@@ -1093,6 +1158,8 @@ AddEventHandler('CEventOpenDoor', function()
         Wait(100)
     end
 
+    Wait(100)
+
     openingDoor = false
 
     local lastEmote = PlayerState.lastEmote
@@ -1121,6 +1188,8 @@ AddEventHandler('CEventPlayerCollisionWithPed', function()
 
         hitTimeout -= 100
     end
+
+    Wait(100)
 
     local lastEmote = PlayerState.lastEmote
 

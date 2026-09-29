@@ -1,5 +1,30 @@
+RegisterNetEvent('scully_emotemenu:requestGroupEmote', function(senderData)
+    local src = source
+
+    if not senderData.CanGroupEmote then return end
+
+    local senderPed = GetPlayerPed(src)
+    local senderCoords = GetEntityCoords(senderPed)
+    local players = lib.getNearbyPlayers(senderCoords, 10.0)
+    local list = {}
+
+    if #players > 0 then
+        for i = 1, #players do
+            local serverId = players[i].id
+
+            if serverId ~= src then
+                list[i] = players[i].id
+            end
+        end
+    end
+
+    lib.triggerClientEvent('scully_emotemenu:groupEmoteRequest', list, src, senderData)
+end)
+
 RegisterNetEvent('scully_emotemenu:requestSynchronizedEmote', function(target, senderData, targetData)
     local src = source
+
+    if not senderData.Synchronized then return end
 
     if senderData.SkipRequest then
         local senderPed, targetPed = GetPlayerPed(src), GetPlayerPed(target)
@@ -18,6 +43,9 @@ end)
 
 RegisterNetEvent('scully_emotemenu:synchronizedEmoteResponse', function(sender, senderData, targetData)
     local src = source
+
+    if not senderData.Synchronized then return end
+
     local senderPed, targetPed = GetPlayerPed(sender), GetPlayerPed(src)
     local distance = #(GetEntityCoords(senderPed) - GetEntityCoords(targetPed))
 

@@ -5,12 +5,18 @@ game 'gta5'
 
 name 'scully_emotemenu'
 author 'https://discord.gg/scully'
-version '2.0.9'
+version '2.1.0'
+repository 'https://github.com/Scullyy/scully_emotemenu'
+description 'An emote menu for the FiveM community.'
 
 dependencies {
     '/server:7290',
     '/onesync',
     'ox_lib'
+}
+
+ox_libs {
+    'locale'
 }
 
 shared_scripts {

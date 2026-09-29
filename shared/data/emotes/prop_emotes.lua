@@ -1,5 +1,6 @@
 return {
-    name = 'Prop Emotes',
+    name = locale('prop_emotes'),
+    type = 'prop_emotes',
     icon = 'fa-solid fa-person-hiking',
     options = {
         {

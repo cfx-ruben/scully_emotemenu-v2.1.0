@@ -1,5 +1,6 @@
 return {
-    name = 'Animal Emotes',
+    name = locale('animal_emotes'),
+    type = 'animal_emotes',
     icon = 'fa-solid fa-dog',
     options = {
         {

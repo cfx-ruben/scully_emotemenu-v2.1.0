@@ -1,5 +1,6 @@
 return {
-    name = 'Synchronized Emotes',
+    name = locale('synchronized_emotes'),
+    type = 'synchronized_emotes',
     icon = 'fa-solid fa-people-carry',
     options = {
         {
